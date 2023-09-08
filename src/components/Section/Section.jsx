@@ -1,3 +1,4 @@
+import React from 'react';
 import { SectionCont } from './Section.styled';
 
 const Section = ({ children, title }) => (

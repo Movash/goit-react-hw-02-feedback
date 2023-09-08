@@ -1,3 +1,4 @@
+import React from 'react';
 import { StatBlock } from './Statistics.styled';
 
 const Statistics = ({ options, total, positivePercentage, state }) => (
